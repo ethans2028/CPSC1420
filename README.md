@@ -1,2 +1,2 @@
 # CPSC1420
-All work from CPSC1420 class
+Work from CPSC1420 class (Fall 2020)
